@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4191698255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20321b3e63f5db0c94f2c29e7e3c619f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/UIBatch/Texture/The_chest.png
+- Assets/Art/Scences/UIBatch/Texture/0002.png
+Dependencies: []

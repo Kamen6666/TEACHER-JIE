@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 2757433373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5483262be9c8169aa5d8b0150f09d5dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84bda750ffeea28feacb25a108130ba0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 42241010c6f9ddc46b78abdc21d505c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f7f9ff044dde68478bf1f0cfcbda151, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 490fb1a2a2075c44bbef03b38cd4a448, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ee66d543fc5c08419df880af41b2206, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 829ac6b46ba2c1c4a81ea415c3ca1a13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b36ef1d7fe1539743a124ebb8ca16108, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: daeaf078a8d5ce349b59cfd994640d92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efc7ad6a5eb8e9b4285d52695f9ce4ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cd5a10b48426cd499568fb9e2a68d4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8011f44b5b7e78b4883c2c7968fe5e73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0137ebceafc7a6409bb34bddce47f0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cb67c6dcb4e4d74eb7aed04254e4089, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/ScenceRPG/Demo1-Day.unity
+Dependencies:
+- D:/U3D/TeachRPG/AssetBundles/Windows/scencerpg/npc.ld
+- D:/U3D/TeachRPG/AssetBundles/Windows/scencerpg/demo.ld
+- D:/U3D/TeachRPG/AssetBundles/Windows/scencerpg/playerskill.ld
+- D:/U3D/TeachRPG/AssetBundles/Windows/scencerpg/litmap.ld
+- D:/U3D/TeachRPG/AssetBundles/Windows/scencerpg/player.ld

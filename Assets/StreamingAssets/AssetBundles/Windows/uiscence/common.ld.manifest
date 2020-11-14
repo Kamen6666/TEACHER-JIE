@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1855815217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2faf39332b168303234d8c8e0c37ab1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/UIScence/Common/Background2.png
+Dependencies: []

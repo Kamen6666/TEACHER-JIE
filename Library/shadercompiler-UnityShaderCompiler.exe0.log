@@ -1,0 +1,15 @@
+Base path: D:/UNITYU bjq/2018.3.5/Editor/Data
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=3016 outsize=843 ok=1
+Cmd: preprocess
+  insize=4470 outsize=2055 ok=1
+Cmd: preprocess
+  insize=2578 outsize=681 ok=1
+Cmd: preprocess
+  insize=1382 outsize=482 ok=1
+Cmd: preprocess
+  insize=1453 outsize=674 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler

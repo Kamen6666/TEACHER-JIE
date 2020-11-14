@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 690504910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd1b16ff036ebd73e3b85e5a1e9cf68d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d76b93dcecb80f88883f920803a4b2c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground4_nmp.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/terrain shader.mat
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground3.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/_test material.mat
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground5.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Demo1.asset
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground5_nmp.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground4.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground2.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground1_nmp.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Bridge/Houses2.mat
+- Assets/Art/Scences/ScenceRPG/Demo/Bridge/Bridge4.fbx
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground1.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground_demo2.mat
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground6.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground2_nmp.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Bridge/Houses2.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground3_nmp.tif
+- Assets/Art/Scences/ScenceRPG/Demo/Ground/Ground6_nmp.tif
+Dependencies: []

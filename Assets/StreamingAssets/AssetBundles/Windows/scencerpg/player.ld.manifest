@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 358677663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0a316ef9dfc08e15e4966cf14b26952
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/ScenceRPG/Player/Controler/Player.controller
+Dependencies:
+- D:/U3D/TeachRPG/AssetBundles/Windows/scencerpg/npc.ld

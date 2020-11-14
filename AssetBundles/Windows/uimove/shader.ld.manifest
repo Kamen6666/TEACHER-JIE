@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 37392469
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: abfed2da4d0a5b170387b5dfe40eb8c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 51a16e16d5113854a16091e54ae5bb0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/UIMove/Shader/UIMove.shader
+- Assets/Art/Scences/UIMove/Shader/UIMove.mat
+Dependencies: []

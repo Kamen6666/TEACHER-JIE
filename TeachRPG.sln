@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D8800A3C-7BC4-8530-76E9-81128B8C7F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0A1BBC06-CD5E-5446-7B5C-C1FAFC72A176}"
+EndProject
+Project("{5697748A-77EF-44CA-8824-4F5637E5945B}") = "TeachRPGLua", "Assets\TeachRPGLua.luaproj", "{E439935D-B2A2-46AE-856D-2AA408428F33}"
+EndProject
+Project("{5697748A-77EF-44CA-8824-4F5637E5945B}") = "Lua", "Assets\Lua.luaproj", "{F740DE94-90FD-4FF5-B941-9B26068584A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8800A3C-7BC4-8530-76E9-81128B8C7F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8800A3C-7BC4-8530-76E9-81128B8C7F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8800A3C-7BC4-8530-76E9-81128B8C7F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8800A3C-7BC4-8530-76E9-81128B8C7F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1BBC06-CD5E-5446-7B5C-C1FAFC72A176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1BBC06-CD5E-5446-7B5C-C1FAFC72A176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1BBC06-CD5E-5446-7B5C-C1FAFC72A176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1BBC06-CD5E-5446-7B5C-C1FAFC72A176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E439935D-B2A2-46AE-856D-2AA408428F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E439935D-B2A2-46AE-856D-2AA408428F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E439935D-B2A2-46AE-856D-2AA408428F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E439935D-B2A2-46AE-856D-2AA408428F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F740DE94-90FD-4FF5-B941-9B26068584A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F740DE94-90FD-4FF5-B941-9B26068584A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F740DE94-90FD-4FF5-B941-9B26068584A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F740DE94-90FD-4FF5-B941-9B26068584A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

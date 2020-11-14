@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3726456000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa989118b4ac73cd0835ef0161533d1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Scences/UIWave/Shader/UIWave.mat
+- Assets/Art/Scences/UIWave/Shader/UIWave.shader
+Dependencies:
+- D:/U3D/TeachRPG/AssetBundles/Windows/uiwave/texture.ld
